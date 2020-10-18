@@ -1,0 +1,5 @@
+disp('最优解为：')  
+disp(sol_best1)  
+disp(sol_best2)  
+disp('目标表达式的最小值等于：')  
+disp(E_best)
